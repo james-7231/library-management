@@ -10,7 +10,7 @@ public class Main {
             ///Collects the users name
         String name = input.nextLine();
             ///Prints the users name to the console.
-        System.out.printf("Thank you, %s!", name);
+        System.out.printf("Welcome to GitHub, %s!", name);
             ///Closes the scanner.
         input.close();
 
